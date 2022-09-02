@@ -15,3 +15,10 @@ button {
   font-size: 20px;
   cursor: pointer;
 }
+
+.statClock {
+  padding: 10px;
+  top: 0px;
+  right: 0px;
+  position: absolute;
+}
